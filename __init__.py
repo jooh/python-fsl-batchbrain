@@ -1,8 +1,6 @@
 '''BatchBrain
 a Python batch processing interface for neuroimaging analysis. Basically a
-fancy wrapper around functionality from NiPype (nipy.sourceforge.net). We
-assume that you have a fully functional NiPype install (including
-interfaces for SPM/FSL/etc).
+fancy wrapper around functionality from FSL / mricron.
 2012 J Carlin'''
 
 __version__ = 'alpha'
