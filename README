@@ -1,0 +1,4 @@
+This code is mainly for batch processing of DTI datasets at the moment, but
+should be extendable. Note that you will need to update the path in __init__.py
+to match your setup. This software assumes that mricron and fsl are on your
+path.
